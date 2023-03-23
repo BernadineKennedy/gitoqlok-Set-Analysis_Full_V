@@ -1,0 +1,15 @@
+{
+  "qInfo": {
+    "qId": "da257b94-3d23-45dc-85ab-9b1dfd29f17a",
+    "qType": "variable"
+  },
+  "qMetaDef": {},
+  "qName": "vPriorYear",
+  "qNumberPresentation": {
+    "qType": "U",
+    "qnDec": 10,
+    "qUseThou": 0
+  },
+  "qDefinition": "=vMaxYear-1",
+  "qIsScriptCreated": true
+}

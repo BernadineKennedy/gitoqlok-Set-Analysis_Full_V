@@ -1,0 +1,15 @@
+{
+  "qInfo": {
+    "qId": "46b5866a-23eb-4779-9c64-2e4be35c7739",
+    "qType": "variable"
+  },
+  "qMetaDef": {},
+  "qName": "vMaxDate",
+  "qNumberPresentation": {
+    "qType": "U",
+    "qnDec": 10,
+    "qUseThou": 0
+  },
+  "qDefinition": "=DATE(max(\"Order Date\"),'DD MMM YYYY')",
+  "qIsScriptCreated": true
+}

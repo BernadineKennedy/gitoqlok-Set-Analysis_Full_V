@@ -1,0 +1,23 @@
+[
+  {
+    "qProperty": {
+      "qInfo": {
+        "qId": "115e6b18-f036-4389-b52c-ba90553b0f03",
+        "qType": "appprops"
+      },
+      "qMetaDef": {},
+      "sheetTitleBgColor": "",
+      "sheetTitleGradientColor": "",
+      "sheetTitleColor": "",
+      "sheetLogoThumbnail": {
+        "qStaticContentUrlDef": {
+          "qUrl": "/appcontent/4c75115c-4144-4c2e-a02f-7c4014bca807/rondlogo.jpg"
+        }
+      },
+      "sheetLogoPosition": "left",
+      "rtl": false,
+      "theme": "sense"
+    },
+    "qChildren": []
+  }
+]

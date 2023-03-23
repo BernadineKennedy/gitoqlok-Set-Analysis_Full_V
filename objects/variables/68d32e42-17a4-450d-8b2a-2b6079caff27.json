@@ -1,0 +1,15 @@
+{
+  "qInfo": {
+    "qId": "68d32e42-17a4-450d-8b2a-2b6079caff27",
+    "qType": "variable"
+  },
+  "qMetaDef": {},
+  "qName": "vmaxdate",
+  "qNumberPresentation": {
+    "qType": "U",
+    "qnDec": 10,
+    "qUseThou": 0
+  },
+  "qDefinition": "43958",
+  "qIsScriptCreated": true
+}

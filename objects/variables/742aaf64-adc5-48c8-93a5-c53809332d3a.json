@@ -1,0 +1,15 @@
+{
+  "qInfo": {
+    "qId": "742aaf64-adc5-48c8-93a5-c53809332d3a",
+    "qType": "variable"
+  },
+  "qMetaDef": {},
+  "qName": "vPriorMonth",
+  "qNumberPresentation": {
+    "qType": "U",
+    "qnDec": 10,
+    "qUseThou": 0
+  },
+  "qDefinition": "=month(addmonths(max(\"Order Date\"),-1))",
+  "qIsScriptCreated": true
+}

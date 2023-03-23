@@ -1,0 +1,15 @@
+{
+  "qInfo": {
+    "qId": "c31d3718-8c46-4785-b6ae-d08562624444",
+    "qType": "variable"
+  },
+  "qMetaDef": {},
+  "qName": "vMaxYear",
+  "qNumberPresentation": {
+    "qType": "U",
+    "qnDec": 10,
+    "qUseThou": 0
+  },
+  "qDefinition": "=max(Year)",
+  "qIsScriptCreated": true
+}

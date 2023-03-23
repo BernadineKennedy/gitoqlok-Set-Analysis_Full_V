@@ -1,0 +1,2064 @@
+{
+  "qProperty": {
+    "qInfo": {
+      "qId": "66e7d3ed-62a9-47d8-a5ae-6a0b6331f6db",
+      "qType": "story"
+    },
+    "qMetaDef": {
+      "title": "My new story",
+      "description": ""
+    },
+    "rank": -1,
+    "thumbnail": {
+      "qStaticContentUrlDef": {}
+    },
+    "qChildListDef": {
+      "qData": {
+        "title": "/title",
+        "rank": "/rank"
+      }
+    }
+  },
+  "qChildren": [
+    {
+      "qProperty": {
+        "qInfo": {
+          "qId": "tbwVsqw",
+          "qType": "slide"
+        },
+        "qMetaDef": {},
+        "rank": -1,
+        "qChildListDef": {
+          "qData": {
+            "title": "/title",
+            "sheetId": "/sheetId",
+            "ratio": "/ratio",
+            "position": "/position",
+            "dataPath": "/dataPath",
+            "srcPath": "/srcPath",
+            "visualization": "/visualization",
+            "visualizationType": "/visualizationType",
+            "style": "/style"
+          }
+        }
+      },
+      "qChildren": []
+    },
+    {
+      "qProperty": {
+        "qInfo": {
+          "qId": "ncypet",
+          "qType": "slide"
+        },
+        "qMetaDef": {},
+        "rank": 0,
+        "qChildListDef": {
+          "qData": {
+            "title": "/title",
+            "sheetId": "/sheetId",
+            "ratio": "/ratio",
+            "position": "/position",
+            "dataPath": "/dataPath",
+            "srcPath": "/srcPath",
+            "visualization": "/visualization",
+            "visualizationType": "/visualizationType",
+            "style": "/style"
+          }
+        }
+      },
+      "qChildren": [
+        {
+          "qProperty": {
+            "qInfo": {
+              "qId": "yxWKPp",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "qEmbeddedSnapshotDef": {},
+            "title": "",
+            "sheetId": "d76aeec1-5a09-4cfe-a7d3-9741c1e5e3a0",
+            "ratio": false,
+            "position": {
+              "top": "1%",
+              "left": "1.5%",
+              "width": "94%",
+              "height": "98%",
+              "z-index": 4
+            },
+            "visualization": "sheet"
+          },
+          "qChildren": [],
+          "qEmbeddedSnapshotRef": {
+            "qProperties": {
+              "qInfo": {
+                "qId": "852f2b80-1997-4569-a159-41a52fd0b29f",
+                "qType": "embeddedsnapshot"
+              },
+              "qMetaDef": {
+                "title": "",
+                "description": ""
+              },
+              "creationDate": "2020-05-07T06:13:03.130Z",
+              "title": "",
+              "sheetId": "d76aeec1-5a09-4cfe-a7d3-9741c1e5e3a0",
+              "selectionFields": [],
+              "selectionsInStates": [
+                {
+                  "stateName": "$",
+                  "qSelectionObject": {
+                    "qBackCount": 3,
+                    "qForwardCount": 0,
+                    "qSelections": []
+                  }
+                },
+                {
+                  "stateName": "Group1",
+                  "qSelectionObject": {
+                    "qBackCount": 3,
+                    "qForwardCount": 0,
+                    "qSelections": []
+                  }
+                },
+                {
+                  "stateName": "Group2",
+                  "qSelectionObject": {
+                    "qBackCount": 3,
+                    "qForwardCount": 0,
+                    "qSelections": []
+                  }
+                }
+              ]
+            },
+            "qBookmark": {
+              "qStateData": [
+                {
+                  "qStateName": "$",
+                  "qFieldItems": []
+                },
+                {
+                  "qStateName": "Group1",
+                  "qFieldItems": []
+                },
+                {
+                  "qStateName": "Group2",
+                  "qFieldItems": []
+                }
+              ],
+              "qUtcModifyTime": 43958.34239583334,
+              "qVariableItems": [],
+              "qPatches": []
+            },
+            "qClassicBookmark": {
+              "qUtcModifyTime": 0,
+              "qUtcRecallTime": 0,
+              "qRecallCount": 0,
+              "qFieldItems": [],
+              "qVariableItems": [],
+              "qObjects": [],
+              "qGroups": [],
+              "qShow": {
+                "qAlways": true,
+                "qExpression": {}
+              },
+              "qApplyInputFieldValues": true,
+              "qInputFieldItems": [],
+              "qObjectsLayout": [],
+              "qIncludeSelectionState": true,
+              "qAlternateStateData": []
+            }
+          }
+        }
+      ]
+    },
+    {
+      "qProperty": {
+        "qInfo": {
+          "qId": "tEbGcd",
+          "qType": "slide"
+        },
+        "qMetaDef": {},
+        "rank": 1,
+        "qChildListDef": {
+          "qData": {
+            "title": "/title",
+            "sheetId": "/sheetId",
+            "ratio": "/ratio",
+            "position": "/position",
+            "dataPath": "/dataPath",
+            "srcPath": "/srcPath",
+            "visualization": "/visualization",
+            "visualizationType": "/visualizationType",
+            "style": "/style"
+          }
+        }
+      },
+      "qChildren": [
+        {
+          "qProperty": {
+            "qInfo": {
+              "qId": "bcfnePh",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "qEmbeddedSnapshotDef": {},
+            "title": "",
+            "sheetId": "1f3588f2-ad97-429d-b8c8-d3087f01b149",
+            "ratio": false,
+            "position": {
+              "top": "1%",
+              "left": "1.5%",
+              "width": "94%",
+              "height": "98%",
+              "z-index": 4
+            },
+            "visualization": "sheet"
+          },
+          "qChildren": [],
+          "qEmbeddedSnapshotRef": {
+            "qProperties": {
+              "qInfo": {
+                "qId": "b4195881-f47d-4936-8666-fd0ed9a4e0ed",
+                "qType": "embeddedsnapshot"
+              },
+              "qMetaDef": {
+                "title": "",
+                "description": ""
+              },
+              "creationDate": "2020-05-07T06:13:07.237Z",
+              "title": "",
+              "sheetId": "1f3588f2-ad97-429d-b8c8-d3087f01b149",
+              "selectionFields": [],
+              "selectionsInStates": [
+                {
+                  "stateName": "$",
+                  "qSelectionObject": {
+                    "qBackCount": 4,
+                    "qForwardCount": 0,
+                    "qSelections": []
+                  }
+                },
+                {
+                  "stateName": "Group1",
+                  "qSelectionObject": {
+                    "qBackCount": 4,
+                    "qForwardCount": 0,
+                    "qSelections": []
+                  }
+                },
+                {
+                  "stateName": "Group2",
+                  "qSelectionObject": {
+                    "qBackCount": 4,
+                    "qForwardCount": 0,
+                    "qSelections": []
+                  }
+                }
+              ]
+            },
+            "qBookmark": {
+              "qStateData": [
+                {
+                  "qStateName": "$",
+                  "qFieldItems": []
+                },
+                {
+                  "qStateName": "Group1",
+                  "qFieldItems": []
+                },
+                {
+                  "qStateName": "Group2",
+                  "qFieldItems": []
+                }
+              ],
+              "qUtcModifyTime": 43958.34244212963,
+              "qVariableItems": [],
+              "qPatches": []
+            },
+            "qClassicBookmark": {
+              "qUtcModifyTime": 0,
+              "qUtcRecallTime": 0,
+              "qRecallCount": 0,
+              "qFieldItems": [],
+              "qVariableItems": [],
+              "qObjects": [],
+              "qGroups": [],
+              "qShow": {
+                "qAlways": true,
+                "qExpression": {}
+              },
+              "qApplyInputFieldValues": true,
+              "qInputFieldItems": [],
+              "qObjectsLayout": [],
+              "qIncludeSelectionState": true,
+              "qAlternateStateData": []
+            }
+          }
+        }
+      ]
+    },
+    {
+      "qProperty": {
+        "qInfo": {
+          "qId": "PPqVGy",
+          "qType": "slide"
+        },
+        "qMetaDef": {},
+        "rank": 2,
+        "qChildListDef": {
+          "qData": {
+            "title": "/title",
+            "sheetId": "/sheetId",
+            "ratio": "/ratio",
+            "position": "/position",
+            "dataPath": "/dataPath",
+            "srcPath": "/srcPath",
+            "visualization": "/visualization",
+            "visualizationType": "/visualizationType",
+            "style": "/style"
+          }
+        }
+      },
+      "qChildren": [
+        {
+          "qProperty": {
+            "qInfo": {
+              "qId": "hQMFYy",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "qEmbeddedSnapshotDef": {},
+            "title": "",
+            "sheetId": "467ea177-8b67-4194-881c-68211950ee95",
+            "ratio": false,
+            "position": {
+              "top": "1%",
+              "left": "1.5%",
+              "width": "94%",
+              "height": "98%",
+              "z-index": 4
+            },
+            "visualization": "sheet"
+          },
+          "qChildren": [],
+          "qEmbeddedSnapshotRef": {
+            "qProperties": {
+              "qInfo": {
+                "qId": "9a2c2c96-e9c2-4e2a-aa36-a8739fb897b9",
+                "qType": "embeddedsnapshot"
+              },
+              "qMetaDef": {
+                "title": "",
+                "description": ""
+              },
+              "creationDate": "2020-05-07T06:13:09.704Z",
+              "title": "",
+              "sheetId": "467ea177-8b67-4194-881c-68211950ee95",
+              "selectionFields": [],
+              "selectionsInStates": [
+                {
+                  "stateName": "$",
+                  "qSelectionObject": {
+                    "qBackCount": 6,
+                    "qForwardCount": 0,
+                    "qSelections": []
+                  }
+                },
+                {
+                  "stateName": "Group1",
+                  "qSelectionObject": {
+                    "qBackCount": 6,
+                    "qForwardCount": 0,
+                    "qSelections": []
+                  }
+                },
+                {
+                  "stateName": "Group2",
+                  "qSelectionObject": {
+                    "qBackCount": 6,
+                    "qForwardCount": 0,
+                    "qSelections": []
+                  }
+                }
+              ]
+            },
+            "qBookmark": {
+              "qStateData": [
+                {
+                  "qStateName": "$",
+                  "qFieldItems": []
+                },
+                {
+                  "qStateName": "Group1",
+                  "qFieldItems": []
+                },
+                {
+                  "qStateName": "Group2",
+                  "qFieldItems": []
+                }
+              ],
+              "qUtcModifyTime": 43958.342465277776,
+              "qVariableItems": [],
+              "qPatches": []
+            },
+            "qClassicBookmark": {
+              "qUtcModifyTime": 0,
+              "qUtcRecallTime": 0,
+              "qRecallCount": 0,
+              "qFieldItems": [],
+              "qVariableItems": [],
+              "qObjects": [],
+              "qGroups": [],
+              "qShow": {
+                "qAlways": true,
+                "qExpression": {}
+              },
+              "qApplyInputFieldValues": true,
+              "qInputFieldItems": [],
+              "qObjectsLayout": [],
+              "qIncludeSelectionState": true,
+              "qAlternateStateData": []
+            }
+          }
+        }
+      ]
+    },
+    {
+      "qProperty": {
+        "qInfo": {
+          "qId": "jdtjYCX",
+          "qType": "slide"
+        },
+        "qMetaDef": {},
+        "rank": 3,
+        "qChildListDef": {
+          "qData": {
+            "title": "/title",
+            "sheetId": "/sheetId",
+            "ratio": "/ratio",
+            "position": "/position",
+            "dataPath": "/dataPath",
+            "srcPath": "/srcPath",
+            "visualization": "/visualization",
+            "visualizationType": "/visualizationType",
+            "style": "/style"
+          }
+        }
+      },
+      "qChildren": [
+        {
+          "qProperty": {
+            "qInfo": {
+              "qId": "JGHnDPD",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "qEmbeddedSnapshotDef": {},
+            "title": "",
+            "sheetId": "4344f874-2835-49a8-90d2-1af62f000bf0",
+            "ratio": false,
+            "position": {
+              "top": "1%",
+              "left": "1.5%",
+              "width": "94%",
+              "height": "98%",
+              "z-index": 4
+            },
+            "visualization": "sheet"
+          },
+          "qChildren": [],
+          "qEmbeddedSnapshotRef": {
+            "qProperties": {
+              "qInfo": {
+                "qId": "16f63963-f105-437d-bfc0-69f660fe49e0",
+                "qType": "embeddedsnapshot"
+              },
+              "qMetaDef": {
+                "title": "",
+                "description": ""
+              },
+              "creationDate": "2020-05-07T06:13:11.393Z",
+              "title": "",
+              "sheetId": "4344f874-2835-49a8-90d2-1af62f000bf0",
+              "selectionFields": [],
+              "selectionsInStates": [
+                {
+                  "stateName": "$",
+                  "qSelectionObject": {
+                    "qBackCount": 7,
+                    "qForwardCount": 0,
+                    "qSelections": []
+                  }
+                },
+                {
+                  "stateName": "Group1",
+                  "qSelectionObject": {
+                    "qBackCount": 7,
+                    "qForwardCount": 0,
+                    "qSelections": []
+                  }
+                },
+                {
+                  "stateName": "Group2",
+                  "qSelectionObject": {
+                    "qBackCount": 7,
+                    "qForwardCount": 0,
+                    "qSelections": []
+                  }
+                }
+              ]
+            },
+            "qBookmark": {
+              "qStateData": [
+                {
+                  "qStateName": "$",
+                  "qFieldItems": []
+                },
+                {
+                  "qStateName": "Group1",
+                  "qFieldItems": []
+                },
+                {
+                  "qStateName": "Group2",
+                  "qFieldItems": []
+                }
+              ],
+              "qUtcModifyTime": 43958.34248842593,
+              "qVariableItems": [],
+              "qPatches": []
+            },
+            "qClassicBookmark": {
+              "qUtcModifyTime": 0,
+              "qUtcRecallTime": 0,
+              "qRecallCount": 0,
+              "qFieldItems": [],
+              "qVariableItems": [],
+              "qObjects": [],
+              "qGroups": [],
+              "qShow": {
+                "qAlways": true,
+                "qExpression": {}
+              },
+              "qApplyInputFieldValues": true,
+              "qInputFieldItems": [],
+              "qObjectsLayout": [],
+              "qIncludeSelectionState": true,
+              "qAlternateStateData": []
+            }
+          }
+        }
+      ]
+    },
+    {
+      "qProperty": {
+        "qInfo": {
+          "qId": "Ttppg",
+          "qType": "slide"
+        },
+        "qMetaDef": {},
+        "rank": 4,
+        "qChildListDef": {
+          "qData": {
+            "title": "/title",
+            "sheetId": "/sheetId",
+            "ratio": "/ratio",
+            "position": "/position",
+            "dataPath": "/dataPath",
+            "srcPath": "/srcPath",
+            "visualization": "/visualization",
+            "visualizationType": "/visualizationType",
+            "style": "/style"
+          }
+        }
+      },
+      "qChildren": [
+        {
+          "qProperty": {
+            "qInfo": {
+              "qId": "QLyV",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "qEmbeddedSnapshotDef": {},
+            "title": "",
+            "sheetId": "152ec48c-291e-41fc-b974-408a5496deab",
+            "ratio": false,
+            "position": {
+              "top": "1%",
+              "left": "1.5%",
+              "width": "94%",
+              "height": "98%",
+              "z-index": 4
+            },
+            "visualization": "sheet"
+          },
+          "qChildren": [],
+          "qEmbeddedSnapshotRef": {
+            "qProperties": {
+              "qInfo": {
+                "qId": "c84d8b52-a9be-4a82-80c2-3ac6f3ac0bc1",
+                "qType": "embeddedsnapshot"
+              },
+              "qMetaDef": {
+                "title": "",
+                "description": ""
+              },
+              "creationDate": "2020-05-07T06:13:13.374Z",
+              "title": "",
+              "sheetId": "152ec48c-291e-41fc-b974-408a5496deab",
+              "selectionFields": [],
+              "selectionsInStates": [
+                {
+                  "stateName": "$",
+                  "qSelectionObject": {
+                    "qBackCount": 8,
+                    "qForwardCount": 0,
+                    "qSelections": []
+                  }
+                },
+                {
+                  "stateName": "Group1",
+                  "qSelectionObject": {
+                    "qBackCount": 8,
+                    "qForwardCount": 0,
+                    "qSelections": []
+                  }
+                },
+                {
+                  "stateName": "Group2",
+                  "qSelectionObject": {
+                    "qBackCount": 8,
+                    "qForwardCount": 0,
+                    "qSelections": []
+                  }
+                }
+              ]
+            },
+            "qBookmark": {
+              "qStateData": [
+                {
+                  "qStateName": "$",
+                  "qFieldItems": []
+                },
+                {
+                  "qStateName": "Group1",
+                  "qFieldItems": []
+                },
+                {
+                  "qStateName": "Group2",
+                  "qFieldItems": []
+                }
+              ],
+              "qUtcModifyTime": 43958.342511574076,
+              "qVariableItems": [],
+              "qPatches": []
+            },
+            "qClassicBookmark": {
+              "qUtcModifyTime": 0,
+              "qUtcRecallTime": 0,
+              "qRecallCount": 0,
+              "qFieldItems": [],
+              "qVariableItems": [],
+              "qObjects": [],
+              "qGroups": [],
+              "qShow": {
+                "qAlways": true,
+                "qExpression": {}
+              },
+              "qApplyInputFieldValues": true,
+              "qInputFieldItems": [],
+              "qObjectsLayout": [],
+              "qIncludeSelectionState": true,
+              "qAlternateStateData": []
+            }
+          }
+        }
+      ]
+    },
+    {
+      "qProperty": {
+        "qInfo": {
+          "qId": "mUUnZp",
+          "qType": "slide"
+        },
+        "qMetaDef": {},
+        "rank": 5,
+        "qChildListDef": {
+          "qData": {
+            "title": "/title",
+            "sheetId": "/sheetId",
+            "ratio": "/ratio",
+            "position": "/position",
+            "dataPath": "/dataPath",
+            "srcPath": "/srcPath",
+            "visualization": "/visualization",
+            "visualizationType": "/visualizationType",
+            "style": "/style"
+          }
+        }
+      },
+      "qChildren": [
+        {
+          "qProperty": {
+            "qInfo": {
+              "qId": "ghjNe",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "qEmbeddedSnapshotDef": {},
+            "title": "",
+            "sheetId": "8389591c-f344-4329-be07-4133cfb32a39",
+            "ratio": false,
+            "position": {
+              "top": "1%",
+              "left": "1.5%",
+              "width": "94%",
+              "height": "98%",
+              "z-index": 4
+            },
+            "visualization": "sheet"
+          },
+          "qChildren": [],
+          "qEmbeddedSnapshotRef": {
+            "qProperties": {
+              "qInfo": {
+                "qId": "aa2cb136-f866-4821-b90e-fda8a8f575e1",
+                "qType": "embeddedsnapshot"
+              },
+              "qMetaDef": {
+                "title": "",
+                "description": ""
+              },
+              "creationDate": "2020-05-07T06:13:18.894Z",
+              "title": "",
+              "sheetId": "8389591c-f344-4329-be07-4133cfb32a39",
+              "selectionFields": [],
+              "selectionsInStates": [
+                {
+                  "stateName": "$",
+                  "qSelectionObject": {
+                    "qBackCount": 11,
+                    "qForwardCount": 0,
+                    "qSelections": []
+                  }
+                },
+                {
+                  "stateName": "Group1",
+                  "qSelectionObject": {
+                    "qBackCount": 11,
+                    "qForwardCount": 0,
+                    "qSelections": []
+                  }
+                },
+                {
+                  "stateName": "Group2",
+                  "qSelectionObject": {
+                    "qBackCount": 11,
+                    "qForwardCount": 0,
+                    "qSelections": []
+                  }
+                }
+              ]
+            },
+            "qBookmark": {
+              "qStateData": [
+                {
+                  "qStateName": "$",
+                  "qFieldItems": []
+                },
+                {
+                  "qStateName": "Group1",
+                  "qFieldItems": []
+                },
+                {
+                  "qStateName": "Group2",
+                  "qFieldItems": []
+                }
+              ],
+              "qUtcModifyTime": 43958.342569444445,
+              "qVariableItems": [],
+              "qPatches": []
+            },
+            "qClassicBookmark": {
+              "qUtcModifyTime": 0,
+              "qUtcRecallTime": 0,
+              "qRecallCount": 0,
+              "qFieldItems": [],
+              "qVariableItems": [],
+              "qObjects": [],
+              "qGroups": [],
+              "qShow": {
+                "qAlways": true,
+                "qExpression": {}
+              },
+              "qApplyInputFieldValues": true,
+              "qInputFieldItems": [],
+              "qObjectsLayout": [],
+              "qIncludeSelectionState": true,
+              "qAlternateStateData": []
+            }
+          }
+        }
+      ]
+    },
+    {
+      "qProperty": {
+        "qInfo": {
+          "qId": "HttY",
+          "qType": "slide"
+        },
+        "qMetaDef": {},
+        "rank": 6,
+        "qChildListDef": {
+          "qData": {
+            "title": "/title",
+            "sheetId": "/sheetId",
+            "ratio": "/ratio",
+            "position": "/position",
+            "dataPath": "/dataPath",
+            "srcPath": "/srcPath",
+            "visualization": "/visualization",
+            "visualizationType": "/visualizationType",
+            "style": "/style"
+          }
+        }
+      },
+      "qChildren": [
+        {
+          "qProperty": {
+            "qInfo": {
+              "qId": "QKrmC",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "qEmbeddedSnapshotDef": {},
+            "title": "",
+            "sheetId": "b516934c-9890-4a03-a634-9b6b82ec6968",
+            "ratio": false,
+            "position": {
+              "top": "1%",
+              "left": "1.5%",
+              "width": "94%",
+              "height": "98%",
+              "z-index": 4
+            },
+            "visualization": "sheet"
+          },
+          "qChildren": [],
+          "qEmbeddedSnapshotRef": {
+            "qProperties": {
+              "qInfo": {
+                "qId": "16a8f1ca-1c6a-4a5a-9e56-5a4eb01612b3",
+                "qType": "embeddedsnapshot"
+              },
+              "qMetaDef": {
+                "title": "",
+                "description": ""
+              },
+              "creationDate": "2020-05-07T06:13:21.261Z",
+              "title": "",
+              "sheetId": "b516934c-9890-4a03-a634-9b6b82ec6968",
+              "selectionFields": [],
+              "selectionsInStates": [
+                {
+                  "stateName": "$",
+                  "qSelectionObject": {
+                    "qBackCount": 12,
+                    "qForwardCount": 0,
+                    "qSelections": []
+                  }
+                },
+                {
+                  "stateName": "Group1",
+                  "qSelectionObject": {
+                    "qBackCount": 12,
+                    "qForwardCount": 0,
+                    "qSelections": []
+                  }
+                },
+                {
+                  "stateName": "Group2",
+                  "qSelectionObject": {
+                    "qBackCount": 12,
+                    "qForwardCount": 0,
+                    "qSelections": []
+                  }
+                }
+              ]
+            },
+            "qBookmark": {
+              "qStateData": [
+                {
+                  "qStateName": "$",
+                  "qFieldItems": []
+                },
+                {
+                  "qStateName": "Group1",
+                  "qFieldItems": []
+                },
+                {
+                  "qStateName": "Group2",
+                  "qFieldItems": []
+                }
+              ],
+              "qUtcModifyTime": 43958.34260416667,
+              "qVariableItems": [],
+              "qPatches": []
+            },
+            "qClassicBookmark": {
+              "qUtcModifyTime": 0,
+              "qUtcRecallTime": 0,
+              "qRecallCount": 0,
+              "qFieldItems": [],
+              "qVariableItems": [],
+              "qObjects": [],
+              "qGroups": [],
+              "qShow": {
+                "qAlways": true,
+                "qExpression": {}
+              },
+              "qApplyInputFieldValues": true,
+              "qInputFieldItems": [],
+              "qObjectsLayout": [],
+              "qIncludeSelectionState": true,
+              "qAlternateStateData": []
+            }
+          }
+        }
+      ]
+    },
+    {
+      "qProperty": {
+        "qInfo": {
+          "qId": "TCysgu",
+          "qType": "slide"
+        },
+        "qMetaDef": {},
+        "rank": 7,
+        "qChildListDef": {
+          "qData": {
+            "title": "/title",
+            "sheetId": "/sheetId",
+            "ratio": "/ratio",
+            "position": "/position",
+            "dataPath": "/dataPath",
+            "srcPath": "/srcPath",
+            "visualization": "/visualization",
+            "visualizationType": "/visualizationType",
+            "style": "/style"
+          }
+        }
+      },
+      "qChildren": [
+        {
+          "qProperty": {
+            "qInfo": {
+              "qId": "FfunjXe",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "qEmbeddedSnapshotDef": {},
+            "title": "",
+            "sheetId": "ec47460f-91ed-45ce-939b-2287f11e29d7",
+            "ratio": false,
+            "position": {
+              "top": "1%",
+              "left": "1.5%",
+              "width": "94%",
+              "height": "98%",
+              "z-index": 4
+            },
+            "visualization": "sheet"
+          },
+          "qChildren": [],
+          "qEmbeddedSnapshotRef": {
+            "qProperties": {
+              "qInfo": {
+                "qId": "7ce79099-d42a-4a26-beb7-62c7c8220146",
+                "qType": "embeddedsnapshot"
+              },
+              "qMetaDef": {
+                "title": "",
+                "description": ""
+              },
+              "creationDate": "2020-05-07T06:13:23.538Z",
+              "title": "",
+              "sheetId": "ec47460f-91ed-45ce-939b-2287f11e29d7",
+              "selectionFields": [],
+              "selectionsInStates": [
+                {
+                  "stateName": "$",
+                  "qSelectionObject": {
+                    "qBackCount": 13,
+                    "qForwardCount": 0,
+                    "qSelections": []
+                  }
+                },
+                {
+                  "stateName": "Group1",
+                  "qSelectionObject": {
+                    "qBackCount": 13,
+                    "qForwardCount": 0,
+                    "qSelections": []
+                  }
+                },
+                {
+                  "stateName": "Group2",
+                  "qSelectionObject": {
+                    "qBackCount": 13,
+                    "qForwardCount": 0,
+                    "qSelections": []
+                  }
+                }
+              ]
+            },
+            "qBookmark": {
+              "qStateData": [
+                {
+                  "qStateName": "$",
+                  "qFieldItems": []
+                },
+                {
+                  "qStateName": "Group1",
+                  "qFieldItems": []
+                },
+                {
+                  "qStateName": "Group2",
+                  "qFieldItems": []
+                }
+              ],
+              "qUtcModifyTime": 43958.342627314814,
+              "qVariableItems": [],
+              "qPatches": []
+            },
+            "qClassicBookmark": {
+              "qUtcModifyTime": 0,
+              "qUtcRecallTime": 0,
+              "qRecallCount": 0,
+              "qFieldItems": [],
+              "qVariableItems": [],
+              "qObjects": [],
+              "qGroups": [],
+              "qShow": {
+                "qAlways": true,
+                "qExpression": {}
+              },
+              "qApplyInputFieldValues": true,
+              "qInputFieldItems": [],
+              "qObjectsLayout": [],
+              "qIncludeSelectionState": true,
+              "qAlternateStateData": []
+            }
+          }
+        }
+      ]
+    },
+    {
+      "qProperty": {
+        "qInfo": {
+          "qId": "dRJUSgP",
+          "qType": "slide"
+        },
+        "qMetaDef": {},
+        "rank": 8,
+        "qChildListDef": {
+          "qData": {
+            "title": "/title",
+            "sheetId": "/sheetId",
+            "ratio": "/ratio",
+            "position": "/position",
+            "dataPath": "/dataPath",
+            "srcPath": "/srcPath",
+            "visualization": "/visualization",
+            "visualizationType": "/visualizationType",
+            "style": "/style"
+          }
+        }
+      },
+      "qChildren": [
+        {
+          "qProperty": {
+            "qInfo": {
+              "qId": "ccDHhf",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "qEmbeddedSnapshotDef": {},
+            "title": "",
+            "sheetId": "42634ad5-da67-409f-bcff-f50b7e6b4f22",
+            "ratio": false,
+            "position": {
+              "top": "1%",
+              "left": "1.5%",
+              "width": "94%",
+              "height": "98%",
+              "z-index": 4
+            },
+            "visualization": "sheet"
+          },
+          "qChildren": [],
+          "qEmbeddedSnapshotRef": {
+            "qProperties": {
+              "qInfo": {
+                "qId": "c269f361-933c-47ca-89ad-5b3a8dafa69c",
+                "qType": "embeddedsnapshot"
+              },
+              "qMetaDef": {
+                "title": "",
+                "description": ""
+              },
+              "creationDate": "2020-05-07T06:13:25.338Z",
+              "title": "",
+              "sheetId": "42634ad5-da67-409f-bcff-f50b7e6b4f22",
+              "selectionFields": [],
+              "selectionsInStates": [
+                {
+                  "stateName": "$",
+                  "qSelectionObject": {
+                    "qBackCount": 14,
+                    "qForwardCount": 0,
+                    "qSelections": []
+                  }
+                },
+                {
+                  "stateName": "Group1",
+                  "qSelectionObject": {
+                    "qBackCount": 14,
+                    "qForwardCount": 0,
+                    "qSelections": []
+                  }
+                },
+                {
+                  "stateName": "Group2",
+                  "qSelectionObject": {
+                    "qBackCount": 14,
+                    "qForwardCount": 0,
+                    "qSelections": []
+                  }
+                }
+              ]
+            },
+            "qBookmark": {
+              "qStateData": [
+                {
+                  "qStateName": "$",
+                  "qFieldItems": []
+                },
+                {
+                  "qStateName": "Group1",
+                  "qFieldItems": []
+                },
+                {
+                  "qStateName": "Group2",
+                  "qFieldItems": []
+                }
+              ],
+              "qUtcModifyTime": 43958.34265046296,
+              "qVariableItems": [],
+              "qPatches": []
+            },
+            "qClassicBookmark": {
+              "qUtcModifyTime": 0,
+              "qUtcRecallTime": 0,
+              "qRecallCount": 0,
+              "qFieldItems": [],
+              "qVariableItems": [],
+              "qObjects": [],
+              "qGroups": [],
+              "qShow": {
+                "qAlways": true,
+                "qExpression": {}
+              },
+              "qApplyInputFieldValues": true,
+              "qInputFieldItems": [],
+              "qObjectsLayout": [],
+              "qIncludeSelectionState": true,
+              "qAlternateStateData": []
+            }
+          }
+        }
+      ]
+    },
+    {
+      "qProperty": {
+        "qInfo": {
+          "qId": "mvDTB",
+          "qType": "slide"
+        },
+        "qMetaDef": {},
+        "rank": 9,
+        "qChildListDef": {
+          "qData": {
+            "title": "/title",
+            "sheetId": "/sheetId",
+            "ratio": "/ratio",
+            "position": "/position",
+            "dataPath": "/dataPath",
+            "srcPath": "/srcPath",
+            "visualization": "/visualization",
+            "visualizationType": "/visualizationType",
+            "style": "/style"
+          }
+        }
+      },
+      "qChildren": [
+        {
+          "qProperty": {
+            "qInfo": {
+              "qId": "FwWhDjc",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "qEmbeddedSnapshotDef": {},
+            "title": "",
+            "sheetId": "f66cd55e-3a51-42fe-af27-c5ce50364904",
+            "ratio": false,
+            "position": {
+              "top": "1%",
+              "left": "1.5%",
+              "width": "94%",
+              "height": "98%",
+              "z-index": 4
+            },
+            "visualization": "sheet"
+          },
+          "qChildren": [],
+          "qEmbeddedSnapshotRef": {
+            "qProperties": {
+              "qInfo": {
+                "qId": "8917703b-7d6a-48ca-8c9e-506ca0779499",
+                "qType": "embeddedsnapshot"
+              },
+              "qMetaDef": {
+                "title": "",
+                "description": ""
+              },
+              "creationDate": "2020-05-07T06:13:27.144Z",
+              "title": "",
+              "sheetId": "f66cd55e-3a51-42fe-af27-c5ce50364904",
+              "selectionFields": [],
+              "selectionsInStates": [
+                {
+                  "stateName": "$",
+                  "qSelectionObject": {
+                    "qBackCount": 15,
+                    "qForwardCount": 0,
+                    "qSelections": []
+                  }
+                },
+                {
+                  "stateName": "Group1",
+                  "qSelectionObject": {
+                    "qBackCount": 15,
+                    "qForwardCount": 0,
+                    "qSelections": []
+                  }
+                },
+                {
+                  "stateName": "Group2",
+                  "qSelectionObject": {
+                    "qBackCount": 15,
+                    "qForwardCount": 0,
+                    "qSelections": []
+                  }
+                }
+              ]
+            },
+            "qBookmark": {
+              "qStateData": [
+                {
+                  "qStateName": "$",
+                  "qFieldItems": []
+                },
+                {
+                  "qStateName": "Group1",
+                  "qFieldItems": []
+                },
+                {
+                  "qStateName": "Group2",
+                  "qFieldItems": []
+                }
+              ],
+              "qUtcModifyTime": 43958.342673611114,
+              "qVariableItems": [],
+              "qPatches": []
+            },
+            "qClassicBookmark": {
+              "qUtcModifyTime": 0,
+              "qUtcRecallTime": 0,
+              "qRecallCount": 0,
+              "qFieldItems": [],
+              "qVariableItems": [],
+              "qObjects": [],
+              "qGroups": [],
+              "qShow": {
+                "qAlways": true,
+                "qExpression": {}
+              },
+              "qApplyInputFieldValues": true,
+              "qInputFieldItems": [],
+              "qObjectsLayout": [],
+              "qIncludeSelectionState": true,
+              "qAlternateStateData": []
+            }
+          }
+        }
+      ]
+    },
+    {
+      "qProperty": {
+        "qInfo": {
+          "qId": "kmKjwST",
+          "qType": "slide"
+        },
+        "qMetaDef": {},
+        "rank": 10,
+        "qChildListDef": {
+          "qData": {
+            "title": "/title",
+            "sheetId": "/sheetId",
+            "ratio": "/ratio",
+            "position": "/position",
+            "dataPath": "/dataPath",
+            "srcPath": "/srcPath",
+            "visualization": "/visualization",
+            "visualizationType": "/visualizationType",
+            "style": "/style"
+          }
+        }
+      },
+      "qChildren": [
+        {
+          "qProperty": {
+            "qInfo": {
+              "qId": "nsEjH",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "qEmbeddedSnapshotDef": {},
+            "title": "",
+            "sheetId": "2f04ca3f-a24d-4445-b345-c50f5bb06b8d",
+            "ratio": false,
+            "position": {
+              "top": "1%",
+              "left": "1.5%",
+              "width": "94%",
+              "height": "98%",
+              "z-index": 4
+            },
+            "visualization": "sheet"
+          },
+          "qChildren": [],
+          "qEmbeddedSnapshotRef": {
+            "qProperties": {
+              "qInfo": {
+                "qId": "e91e8012-d533-47b0-8b83-e9b6603ef25e",
+                "qType": "embeddedsnapshot"
+              },
+              "qMetaDef": {
+                "title": "",
+                "description": ""
+              },
+              "creationDate": "2020-05-07T06:13:29.148Z",
+              "title": "",
+              "sheetId": "2f04ca3f-a24d-4445-b345-c50f5bb06b8d",
+              "selectionFields": [],
+              "selectionsInStates": [
+                {
+                  "stateName": "$",
+                  "qSelectionObject": {
+                    "qBackCount": 16,
+                    "qForwardCount": 0,
+                    "qSelections": []
+                  }
+                },
+                {
+                  "stateName": "Group1",
+                  "qSelectionObject": {
+                    "qBackCount": 16,
+                    "qForwardCount": 0,
+                    "qSelections": []
+                  }
+                },
+                {
+                  "stateName": "Group2",
+                  "qSelectionObject": {
+                    "qBackCount": 16,
+                    "qForwardCount": 0,
+                    "qSelections": []
+                  }
+                }
+              ]
+            },
+            "qBookmark": {
+              "qStateData": [
+                {
+                  "qStateName": "$",
+                  "qFieldItems": []
+                },
+                {
+                  "qStateName": "Group1",
+                  "qFieldItems": []
+                },
+                {
+                  "qStateName": "Group2",
+                  "qFieldItems": []
+                }
+              ],
+              "qUtcModifyTime": 43958.34269675926,
+              "qVariableItems": [],
+              "qPatches": []
+            },
+            "qClassicBookmark": {
+              "qUtcModifyTime": 0,
+              "qUtcRecallTime": 0,
+              "qRecallCount": 0,
+              "qFieldItems": [],
+              "qVariableItems": [],
+              "qObjects": [],
+              "qGroups": [],
+              "qShow": {
+                "qAlways": true,
+                "qExpression": {}
+              },
+              "qApplyInputFieldValues": true,
+              "qInputFieldItems": [],
+              "qObjectsLayout": [],
+              "qIncludeSelectionState": true,
+              "qAlternateStateData": []
+            }
+          }
+        }
+      ]
+    },
+    {
+      "qProperty": {
+        "qInfo": {
+          "qId": "LpYBRSz",
+          "qType": "slide"
+        },
+        "qMetaDef": {},
+        "rank": 11,
+        "qChildListDef": {
+          "qData": {
+            "title": "/title",
+            "sheetId": "/sheetId",
+            "ratio": "/ratio",
+            "position": "/position",
+            "dataPath": "/dataPath",
+            "srcPath": "/srcPath",
+            "visualization": "/visualization",
+            "visualizationType": "/visualizationType",
+            "style": "/style"
+          }
+        }
+      },
+      "qChildren": [
+        {
+          "qProperty": {
+            "qInfo": {
+              "qId": "Mjpsfp",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "qEmbeddedSnapshotDef": {},
+            "title": "",
+            "sheetId": "164f7777-e462-47fb-a1bd-0749997265d8",
+            "ratio": false,
+            "position": {
+              "top": "1%",
+              "left": "1.5%",
+              "width": "94%",
+              "height": "98%",
+              "z-index": 4
+            },
+            "visualization": "sheet"
+          },
+          "qChildren": [],
+          "qEmbeddedSnapshotRef": {
+            "qProperties": {
+              "qInfo": {
+                "qId": "58a8a647-3b5a-4160-9694-b24922a71a8a",
+                "qType": "embeddedsnapshot"
+              },
+              "qMetaDef": {
+                "title": "",
+                "description": ""
+              },
+              "creationDate": "2020-05-07T06:13:32.004Z",
+              "title": "",
+              "sheetId": "164f7777-e462-47fb-a1bd-0749997265d8",
+              "selectionFields": [],
+              "selectionsInStates": [
+                {
+                  "stateName": "$",
+                  "qSelectionObject": {
+                    "qBackCount": 17,
+                    "qForwardCount": 0,
+                    "qSelections": []
+                  }
+                },
+                {
+                  "stateName": "Group1",
+                  "qSelectionObject": {
+                    "qBackCount": 17,
+                    "qForwardCount": 0,
+                    "qSelections": []
+                  }
+                },
+                {
+                  "stateName": "Group2",
+                  "qSelectionObject": {
+                    "qBackCount": 17,
+                    "qForwardCount": 0,
+                    "qSelections": []
+                  }
+                }
+              ]
+            },
+            "qBookmark": {
+              "qStateData": [
+                {
+                  "qStateName": "$",
+                  "qFieldItems": []
+                },
+                {
+                  "qStateName": "Group1",
+                  "qFieldItems": []
+                },
+                {
+                  "qStateName": "Group2",
+                  "qFieldItems": []
+                }
+              ],
+              "qUtcModifyTime": 43958.34273148148,
+              "qVariableItems": [],
+              "qPatches": []
+            },
+            "qClassicBookmark": {
+              "qUtcModifyTime": 0,
+              "qUtcRecallTime": 0,
+              "qRecallCount": 0,
+              "qFieldItems": [],
+              "qVariableItems": [],
+              "qObjects": [],
+              "qGroups": [],
+              "qShow": {
+                "qAlways": true,
+                "qExpression": {}
+              },
+              "qApplyInputFieldValues": true,
+              "qInputFieldItems": [],
+              "qObjectsLayout": [],
+              "qIncludeSelectionState": true,
+              "qAlternateStateData": []
+            }
+          }
+        }
+      ]
+    },
+    {
+      "qProperty": {
+        "qInfo": {
+          "qId": "ndWDedx",
+          "qType": "slide"
+        },
+        "qMetaDef": {},
+        "rank": 12,
+        "qChildListDef": {
+          "qData": {
+            "title": "/title",
+            "sheetId": "/sheetId",
+            "ratio": "/ratio",
+            "position": "/position",
+            "dataPath": "/dataPath",
+            "srcPath": "/srcPath",
+            "visualization": "/visualization",
+            "visualizationType": "/visualizationType",
+            "style": "/style"
+          }
+        }
+      },
+      "qChildren": [
+        {
+          "qProperty": {
+            "qInfo": {
+              "qId": "rPNYBp",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "qEmbeddedSnapshotDef": {},
+            "title": "",
+            "sheetId": "3dc9058b-c536-4a4f-b171-27a809865a94",
+            "ratio": false,
+            "position": {
+              "top": "1%",
+              "left": "1.5%",
+              "width": "94%",
+              "height": "98%",
+              "z-index": 4
+            },
+            "visualization": "sheet"
+          },
+          "qChildren": [],
+          "qEmbeddedSnapshotRef": {
+            "qProperties": {
+              "qInfo": {
+                "qId": "46d66848-d78e-4a83-b11e-2db3bd293b32",
+                "qType": "embeddedsnapshot"
+              },
+              "qMetaDef": {
+                "title": "",
+                "description": ""
+              },
+              "creationDate": "2020-05-07T06:13:36.383Z",
+              "title": "",
+              "sheetId": "3dc9058b-c536-4a4f-b171-27a809865a94",
+              "selectionFields": [],
+              "selectionsInStates": [
+                {
+                  "stateName": "$",
+                  "qSelectionObject": {
+                    "qBackCount": 18,
+                    "qForwardCount": 0,
+                    "qSelections": []
+                  }
+                },
+                {
+                  "stateName": "Group1",
+                  "qSelectionObject": {
+                    "qBackCount": 18,
+                    "qForwardCount": 0,
+                    "qSelections": []
+                  }
+                },
+                {
+                  "stateName": "Group2",
+                  "qSelectionObject": {
+                    "qBackCount": 18,
+                    "qForwardCount": 0,
+                    "qSelections": []
+                  }
+                }
+              ]
+            },
+            "qBookmark": {
+              "qStateData": [
+                {
+                  "qStateName": "$",
+                  "qFieldItems": []
+                },
+                {
+                  "qStateName": "Group1",
+                  "qFieldItems": []
+                },
+                {
+                  "qStateName": "Group2",
+                  "qFieldItems": []
+                }
+              ],
+              "qUtcModifyTime": 43958.342777777776,
+              "qVariableItems": [],
+              "qPatches": []
+            },
+            "qClassicBookmark": {
+              "qUtcModifyTime": 0,
+              "qUtcRecallTime": 0,
+              "qRecallCount": 0,
+              "qFieldItems": [],
+              "qVariableItems": [],
+              "qObjects": [],
+              "qGroups": [],
+              "qShow": {
+                "qAlways": true,
+                "qExpression": {}
+              },
+              "qApplyInputFieldValues": true,
+              "qInputFieldItems": [],
+              "qObjectsLayout": [],
+              "qIncludeSelectionState": true,
+              "qAlternateStateData": []
+            }
+          }
+        }
+      ]
+    },
+    {
+      "qProperty": {
+        "qInfo": {
+          "qId": "ZrnGEkd",
+          "qType": "slide"
+        },
+        "qMetaDef": {},
+        "rank": 13,
+        "qChildListDef": {
+          "qData": {
+            "title": "/title",
+            "sheetId": "/sheetId",
+            "ratio": "/ratio",
+            "position": "/position",
+            "dataPath": "/dataPath",
+            "srcPath": "/srcPath",
+            "visualization": "/visualization",
+            "visualizationType": "/visualizationType",
+            "style": "/style"
+          }
+        }
+      },
+      "qChildren": [
+        {
+          "qProperty": {
+            "qInfo": {
+              "qId": "jDKEduB",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "qEmbeddedSnapshotDef": {},
+            "title": "",
+            "sheetId": "a8312cc8-9ef9-45a8-9f12-9d0ef29970b6",
+            "ratio": false,
+            "position": {
+              "top": "1%",
+              "left": "1.5%",
+              "width": "94%",
+              "height": "98%",
+              "z-index": 4
+            },
+            "visualization": "sheet"
+          },
+          "qChildren": [],
+          "qEmbeddedSnapshotRef": {
+            "qProperties": {
+              "qInfo": {
+                "qId": "39fa680c-f8f4-4206-8a09-74552d6e4cd5",
+                "qType": "embeddedsnapshot"
+              },
+              "qMetaDef": {
+                "title": "",
+                "description": ""
+              },
+              "creationDate": "2020-05-07T06:13:38.883Z",
+              "title": "",
+              "sheetId": "a8312cc8-9ef9-45a8-9f12-9d0ef29970b6",
+              "selectionFields": [],
+              "selectionsInStates": [
+                {
+                  "stateName": "$",
+                  "qSelectionObject": {
+                    "qBackCount": 19,
+                    "qForwardCount": 0,
+                    "qSelections": []
+                  }
+                },
+                {
+                  "stateName": "Group1",
+                  "qSelectionObject": {
+                    "qBackCount": 19,
+                    "qForwardCount": 0,
+                    "qSelections": []
+                  }
+                },
+                {
+                  "stateName": "Group2",
+                  "qSelectionObject": {
+                    "qBackCount": 19,
+                    "qForwardCount": 0,
+                    "qSelections": []
+                  }
+                }
+              ]
+            },
+            "qBookmark": {
+              "qStateData": [
+                {
+                  "qStateName": "$",
+                  "qFieldItems": []
+                },
+                {
+                  "qStateName": "Group1",
+                  "qFieldItems": []
+                },
+                {
+                  "qStateName": "Group2",
+                  "qFieldItems": []
+                }
+              ],
+              "qUtcModifyTime": 43958.34280092592,
+              "qVariableItems": [],
+              "qPatches": []
+            },
+            "qClassicBookmark": {
+              "qUtcModifyTime": 0,
+              "qUtcRecallTime": 0,
+              "qRecallCount": 0,
+              "qFieldItems": [],
+              "qVariableItems": [],
+              "qObjects": [],
+              "qGroups": [],
+              "qShow": {
+                "qAlways": true,
+                "qExpression": {}
+              },
+              "qApplyInputFieldValues": true,
+              "qInputFieldItems": [],
+              "qObjectsLayout": [],
+              "qIncludeSelectionState": true,
+              "qAlternateStateData": []
+            }
+          }
+        }
+      ]
+    },
+    {
+      "qProperty": {
+        "qInfo": {
+          "qId": "rQtBEd",
+          "qType": "slide"
+        },
+        "qMetaDef": {},
+        "rank": 14,
+        "qChildListDef": {
+          "qData": {
+            "title": "/title",
+            "sheetId": "/sheetId",
+            "ratio": "/ratio",
+            "position": "/position",
+            "dataPath": "/dataPath",
+            "srcPath": "/srcPath",
+            "visualization": "/visualization",
+            "visualizationType": "/visualizationType",
+            "style": "/style"
+          }
+        }
+      },
+      "qChildren": [
+        {
+          "qProperty": {
+            "qInfo": {
+              "qId": "NL",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "qEmbeddedSnapshotDef": {},
+            "title": "",
+            "sheetId": "90d356bd-1fe0-41b3-955d-491b88ed04d9",
+            "ratio": false,
+            "position": {
+              "top": "1%",
+              "left": "1.5%",
+              "width": "94%",
+              "height": "98%",
+              "z-index": 4
+            },
+            "visualization": "sheet"
+          },
+          "qChildren": [],
+          "qEmbeddedSnapshotRef": {
+            "qProperties": {
+              "qInfo": {
+                "qId": "57f09255-2c9c-46cc-bc07-e2f3de748cca",
+                "qType": "embeddedsnapshot"
+              },
+              "qMetaDef": {
+                "title": "",
+                "description": ""
+              },
+              "creationDate": "2020-05-07T06:13:40.598Z",
+              "title": "",
+              "sheetId": "90d356bd-1fe0-41b3-955d-491b88ed04d9",
+              "selectionFields": [],
+              "selectionsInStates": [
+                {
+                  "stateName": "$",
+                  "qSelectionObject": {
+                    "qBackCount": 21,
+                    "qForwardCount": 0,
+                    "qSelections": []
+                  }
+                },
+                {
+                  "stateName": "Group1",
+                  "qSelectionObject": {
+                    "qBackCount": 21,
+                    "qForwardCount": 0,
+                    "qSelections": []
+                  }
+                },
+                {
+                  "stateName": "Group2",
+                  "qSelectionObject": {
+                    "qBackCount": 21,
+                    "qForwardCount": 0,
+                    "qSelections": []
+                  }
+                }
+              ]
+            },
+            "qBookmark": {
+              "qStateData": [
+                {
+                  "qStateName": "$",
+                  "qFieldItems": []
+                },
+                {
+                  "qStateName": "Group1",
+                  "qFieldItems": []
+                },
+                {
+                  "qStateName": "Group2",
+                  "qFieldItems": []
+                }
+              ],
+              "qUtcModifyTime": 43958.342824074076,
+              "qVariableItems": [],
+              "qPatches": []
+            },
+            "qClassicBookmark": {
+              "qUtcModifyTime": 0,
+              "qUtcRecallTime": 0,
+              "qRecallCount": 0,
+              "qFieldItems": [],
+              "qVariableItems": [],
+              "qObjects": [],
+              "qGroups": [],
+              "qShow": {
+                "qAlways": true,
+                "qExpression": {}
+              },
+              "qApplyInputFieldValues": true,
+              "qInputFieldItems": [],
+              "qObjectsLayout": [],
+              "qIncludeSelectionState": true,
+              "qAlternateStateData": []
+            }
+          }
+        }
+      ]
+    },
+    {
+      "qProperty": {
+        "qInfo": {
+          "qId": "NCqrZ",
+          "qType": "slide"
+        },
+        "qMetaDef": {},
+        "rank": 15,
+        "qChildListDef": {
+          "qData": {
+            "title": "/title",
+            "sheetId": "/sheetId",
+            "ratio": "/ratio",
+            "position": "/position",
+            "dataPath": "/dataPath",
+            "srcPath": "/srcPath",
+            "visualization": "/visualization",
+            "visualizationType": "/visualizationType",
+            "style": "/style"
+          }
+        }
+      },
+      "qChildren": [
+        {
+          "qProperty": {
+            "qInfo": {
+              "qId": "rTbQjV",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "qEmbeddedSnapshotDef": {},
+            "title": "",
+            "sheetId": "3ade3955-bcc6-48b5-9618-8c2db6b45255",
+            "ratio": false,
+            "position": {
+              "top": "1%",
+              "left": "1.5%",
+              "width": "94%",
+              "height": "98%",
+              "z-index": 4
+            },
+            "visualization": "sheet"
+          },
+          "qChildren": [],
+          "qEmbeddedSnapshotRef": {
+            "qProperties": {
+              "qInfo": {
+                "qId": "b7a9e9ae-45e8-4f80-86e0-dc059bae78b8",
+                "qType": "embeddedsnapshot"
+              },
+              "qMetaDef": {
+                "title": "",
+                "description": ""
+              },
+              "creationDate": "2020-05-07T06:13:42.549Z",
+              "title": "",
+              "sheetId": "3ade3955-bcc6-48b5-9618-8c2db6b45255",
+              "selectionFields": [],
+              "selectionsInStates": [
+                {
+                  "stateName": "$",
+                  "qSelectionObject": {
+                    "qBackCount": 23,
+                    "qForwardCount": 0,
+                    "qSelections": []
+                  }
+                },
+                {
+                  "stateName": "Group1",
+                  "qSelectionObject": {
+                    "qBackCount": 23,
+                    "qForwardCount": 0,
+                    "qSelections": []
+                  }
+                },
+                {
+                  "stateName": "Group2",
+                  "qSelectionObject": {
+                    "qBackCount": 23,
+                    "qForwardCount": 0,
+                    "qSelections": []
+                  }
+                }
+              ]
+            },
+            "qBookmark": {
+              "qStateData": [
+                {
+                  "qStateName": "$",
+                  "qFieldItems": []
+                },
+                {
+                  "qStateName": "Group1",
+                  "qFieldItems": []
+                },
+                {
+                  "qStateName": "Group2",
+                  "qFieldItems": []
+                }
+              ],
+              "qUtcModifyTime": 43958.34284722222,
+              "qVariableItems": [],
+              "qPatches": []
+            },
+            "qClassicBookmark": {
+              "qUtcModifyTime": 0,
+              "qUtcRecallTime": 0,
+              "qRecallCount": 0,
+              "qFieldItems": [],
+              "qVariableItems": [],
+              "qObjects": [],
+              "qGroups": [],
+              "qShow": {
+                "qAlways": true,
+                "qExpression": {}
+              },
+              "qApplyInputFieldValues": true,
+              "qInputFieldItems": [],
+              "qObjectsLayout": [],
+              "qIncludeSelectionState": true,
+              "qAlternateStateData": []
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

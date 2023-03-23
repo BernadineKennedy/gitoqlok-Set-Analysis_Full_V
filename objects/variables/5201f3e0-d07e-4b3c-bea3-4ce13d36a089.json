@@ -1,0 +1,15 @@
+{
+  "qInfo": {
+    "qId": "5201f3e0-d07e-4b3c-bea3-4ce13d36a089",
+    "qType": "variable"
+  },
+  "qMetaDef": {},
+  "qName": "vgroup2category",
+  "qNumberPresentation": {
+    "qType": "U",
+    "qnDec": 10,
+    "qUseThou": 0
+  },
+  "qDefinition": "=GetFieldSelections(Category,',',1,'Group2')",
+  "tags": []
+}

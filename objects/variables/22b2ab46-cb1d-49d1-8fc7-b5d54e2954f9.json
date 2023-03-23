@@ -1,0 +1,15 @@
+{
+  "qInfo": {
+    "qId": "22b2ab46-cb1d-49d1-8fc7-b5d54e2954f9",
+    "qType": "variable"
+  },
+  "qMetaDef": {},
+  "qName": "vPriorYearDate",
+  "qNumberPresentation": {
+    "qType": "U",
+    "qnDec": 10,
+    "qUseThou": 0
+  },
+  "qDefinition": "=date(addyears(max(\"Order Date\"),-1),'DD MMM YYYY')",
+  "qIsScriptCreated": true
+}

@@ -1,0 +1,15 @@
+{
+  "qInfo": {
+    "qId": "8fde9f00-c64c-44ac-9577-74f54404e697",
+    "qType": "variable"
+  },
+  "qMetaDef": {},
+  "qName": "vmindate",
+  "qNumberPresentation": {
+    "qType": "U",
+    "qnDec": 10,
+    "qUseThou": 0
+  },
+  "qDefinition": "42503",
+  "qIsScriptCreated": true
+}

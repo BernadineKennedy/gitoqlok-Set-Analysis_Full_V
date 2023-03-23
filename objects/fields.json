@@ -1,0 +1,434 @@
+[
+  {
+    "qName": "CMFlag",
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "MasterCalendar"
+    ]
+  },
+  {
+    "qName": "CMLYFlag",
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "MasterCalendar"
+    ]
+  },
+  {
+    "qName": "CMLYTDFlag",
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "MasterCalendar"
+    ]
+  },
+  {
+    "qName": "CMTDFlag",
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "MasterCalendar"
+    ]
+  },
+  {
+    "qName": "COGS",
+    "qTags": [
+      "$numeric"
+    ],
+    "qSrcTables": [
+      "orders"
+    ]
+  },
+  {
+    "qName": "CYFlag",
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "MasterCalendar"
+    ]
+  },
+  {
+    "qName": "CYTDFlag",
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "MasterCalendar"
+    ]
+  },
+  {
+    "qName": "Category",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "orders"
+    ]
+  },
+  {
+    "qName": "City",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "orders"
+    ]
+  },
+  {
+    "qName": "Country",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "orders"
+    ]
+  },
+  {
+    "qName": "Customer ID",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "orders"
+    ]
+  },
+  {
+    "qName": "Customer Name",
+    "qTags": [
+      "$text"
+    ],
+    "qSrcTables": [
+      "orders"
+    ]
+  },
+  {
+    "qName": "Day",
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "MasterCalendar"
+    ]
+  },
+  {
+    "qName": "Discount",
+    "qTags": [
+      "$numeric"
+    ],
+    "qSrcTables": [
+      "orders"
+    ]
+  },
+  {
+    "qName": "LMFlag",
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "MasterCalendar"
+    ]
+  },
+  {
+    "qName": "LMTDFlag",
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "MasterCalendar"
+    ]
+  },
+  {
+    "qName": "LYFlag",
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "MasterCalendar"
+    ]
+  },
+  {
+    "qName": "LYTDFlag",
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "MasterCalendar"
+    ]
+  },
+  {
+    "qName": "Month",
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "MasterCalendar"
+    ]
+  },
+  {
+    "qName": "MonthYear",
+    "qTags": [
+      "$numeric",
+      "$integer",
+      "$timestamp",
+      "$date"
+    ],
+    "qSrcTables": [
+      "MasterCalendar"
+    ]
+  },
+  {
+    "qName": "Order Date",
+    "qTags": [
+      "$key",
+      "$numeric",
+      "$integer",
+      "$timestamp",
+      "$date"
+    ],
+    "qSrcTables": [
+      "orders",
+      "MasterCalendar"
+    ]
+  },
+  {
+    "qName": "Order ID",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "orders"
+    ]
+  },
+  {
+    "qName": "Postal Code",
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "orders"
+    ]
+  },
+  {
+    "qName": "PreR28",
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "MasterCalendar"
+    ]
+  },
+  {
+    "qName": "Product ID",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "orders"
+    ]
+  },
+  {
+    "qName": "Product Name",
+    "qTags": [
+      "$text"
+    ],
+    "qSrcTables": [
+      "orders"
+    ]
+  },
+  {
+    "qName": "Profit",
+    "qTags": [
+      "$numeric"
+    ],
+    "qSrcTables": [
+      "orders"
+    ]
+  },
+  {
+    "qName": "Quantity",
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "orders"
+    ]
+  },
+  {
+    "qName": "Quarter",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "MasterCalendar"
+    ]
+  },
+  {
+    "qName": "R12M",
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "MasterCalendar"
+    ]
+  },
+  {
+    "qName": "R28",
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "MasterCalendar"
+    ]
+  },
+  {
+    "qName": "Region",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "orders"
+    ]
+  },
+  {
+    "qName": "Row ID",
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "orders"
+    ]
+  },
+  {
+    "qName": "Sales",
+    "qTags": [
+      "$numeric"
+    ],
+    "qSrcTables": [
+      "orders"
+    ]
+  },
+  {
+    "qName": "Segment",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "orders"
+    ]
+  },
+  {
+    "qName": "Ship Date",
+    "qTags": [
+      "$numeric",
+      "$integer",
+      "$timestamp",
+      "$date"
+    ],
+    "qSrcTables": [
+      "orders"
+    ]
+  },
+  {
+    "qName": "Ship Mode",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "orders"
+    ]
+  },
+  {
+    "qName": "State",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "orders"
+    ]
+  },
+  {
+    "qName": "Sub-Category",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "orders"
+    ]
+  },
+  {
+    "qName": "Week",
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "MasterCalendar"
+    ]
+  },
+  {
+    "qName": "WeekDay",
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "MasterCalendar"
+    ]
+  },
+  {
+    "qName": "WeekYear",
+    "qTags": [
+      "$ascii",
+      "$text"
+    ],
+    "qSrcTables": [
+      "MasterCalendar"
+    ]
+  },
+  {
+    "qName": "Year",
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "MasterCalendar"
+    ]
+  }
+]
